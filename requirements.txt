@@ -6,7 +6,7 @@ cffi==1.13.2
 chardet==3.0.4
 conda==4.8.0
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 distlib==0.3.0
 filelock==3.0.12
